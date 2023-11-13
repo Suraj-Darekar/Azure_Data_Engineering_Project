@@ -22,7 +22,7 @@ A dedicated container named "raw" was created to store the raw data ingested fro
 ![a](https://github.com/Suraj-Darekar/Azure_Data_Engineering_Project/assets/140320836/63d27e5c-75ba-4353-bcd3-c10bf9b9ac85)
 
 • Azure Databricks:
-Used to process the raw data stored in Azure Blob Storage, applying necessary transformations to achieve the cleanest form of data. Databricks notebooks were employed to execute ETL (Extract, Transform, Load) processes, enhancing data quality and usability.
+Used to process the raw data stored in Azure Blob Storage, applying necessary transformations using python & SQL to achieve the cleanest form of data. Databricks notebooks were employed to execute ETL (Extract, Transform, Load) processes, enhancing data quality and usability.
 
 ![image](https://github.com/Suraj-Darekar/Azure_Data_Engineering_Project/assets/140320836/1222052d-e077-4ce7-9d31-e2fbf20ae191)
 
